@@ -1,0 +1,24 @@
+html {
+	height: 100%;
+  }
+  
+  body {
+	height: 100%; 
+	/* The image used */
+	background-image: url("./img/banner2.jpg");
+  
+	/* Full height */
+	height: 92.7%; 
+  
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+  }
+
+  .container {
+    width: 45%;
+	margin-top: 5%;
+	background: rgba(52, 58, 64, 0.85);
+    padding: 40px 30px;
+}
